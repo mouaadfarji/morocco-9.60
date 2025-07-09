@@ -13,12 +13,6 @@ body {
     font-family: 'Segoe UI', Arial, sans-serif;
 }
 
-body {
-  background: url('../images/Morocco_Flag_Video_Ready.gif') no-repeat center center fixed;
-  background-size: cover;
-  color: #fff; /* Optional: makes text white for better contrast */
-}
-
 .header {
     z-index: 2;
     position: fixed;
